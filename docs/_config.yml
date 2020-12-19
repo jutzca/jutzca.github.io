@@ -30,7 +30,11 @@ twitter_username: Jutzeler_Cathy
 github_username:  jutzca
 
 # Build settings
-theme: minima
+#theme: minima
+
+theme: minimal-mistakes-jekyll
+
+
 plugins:
   - jekyll-feed
 
