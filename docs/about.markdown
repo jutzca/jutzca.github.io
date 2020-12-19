@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Catherine Jutzeler, PhD
+title: About
 permalink: /about/
 ---
 Catherine Jutzeler is a [Swiss National Science Foundation](http://p3.snf.ch/project-186101) Ambizione group leader and senior assistant in Prof. Borgwardt’s MLCB research group. After completing her BSc and MSc in pharmaceutical science at the University of Basel, she pursued her doctoral studies jointly at ETH Zurich and the University Clinic Balgrist applying neurophysiological and neuroimaging methods to assess the neural plasticity in patients recovering from spinal cord injury. She was then awarded with multiple postdoctoral fellowships (Craig H. Nielsen, Michael Smith Research Foundation, International Research for Paraplegia) to conduct her postdoctoral studies in the field of neuro-pharmacoepidemiology and data science at the University of British Columbia in Vancouver, Canada. 
