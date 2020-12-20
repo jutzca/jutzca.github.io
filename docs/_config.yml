@@ -32,11 +32,11 @@ github_username:  jutzca
 # Build settings
 #theme: minima
 
-remote_theme: mmistakes/minimal-mistakes@4.21.0
-
+theme: minimal-mistakes-jekyll
 
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
 
 include:
   - "_img"  #add image folder
