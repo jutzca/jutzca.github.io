@@ -32,7 +32,7 @@ github_username:  jutzca
 # Build settings
 #theme: minima
 
-theme: minimal-mistakes-jekyll
+remote_theme: minimal-mistakes-jekyll
 
 
 plugins:
