@@ -18,10 +18,10 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "default", "dirt"
 locale                   : "en-US"
 title                    : "Data Science for Health Laboratory"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "Version 2.0"
 name                     : "Catherine Jutzeler"
 description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://jutzca.github.io./"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : jutzca
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -70,7 +70,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : jutzeler_cathy
 facebook:
   username               :
   app_id                 :
