@@ -243,6 +243,10 @@ whitelist:
 category_archive:
   type: liquid
   path: /categories/
+  
+contact_archive:
+  type: liquid
+  path: /contact/
 tag_archive:
   type: liquid
   path: /tags/
